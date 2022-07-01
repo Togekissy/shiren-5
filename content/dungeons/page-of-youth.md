@@ -7,7 +7,7 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
   <img src="../images/overworld/page_of_youth.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where you're excepted to utilize Nixer Scrolls to obtain Monster Licences. Nixer and the occasional Fixer Scroll are the only two scrolls you can find on the ground.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -19,13 +19,60 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
 
 # Overview
 
-[Overview Tables]
+<table class="dungeonTable">
+  <tr>
+    <th>Floors</th>
+    <td>29F (first) / 50F</td>
+    <th>Day / Night</th>
+    <td>Day</td>
+  </tr>
+  <tr>
+    <th>Bring Items</th>
+    <td>No</td>
+    <th>Allies</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Unidentified</th>
+    <td>None</td>
+    <th>New Items</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Shops</th>
+    <td>?</td>
+    <th>Monster Houses</th>
+    <td>?</td>
+  </tr>
+  <tr>
+    <th>Initial Enemies</th>
+    <td>?</td>
+    <th>Spawn Rate</th>
+    <td>?</td>
+  </tr>
+  <tr>
+    <th>Ominous aura</th>
+    <td>?</td>
+    <th>Wind of Kron</th>
+    <td>1st: 1700 <br/>4th: 2000</td>
+  </tr>
+  <tr>
+    <th>Clear Icon</th>
+    <td></td>
+    <th>Reward</th>
+    <td>Lucky Pot (3)</td>
+  </tr>
+</table>
 
 # Strategy
 
 [Quick Links]
 
-[Content]
+Nixer Scrolls are the main scroll found, and should be used to gather Friendship Licences in order to aquire a large sum of Blank Scrolls. Use them to write down the Mnstr House Scroll in order to collect more Nixer Scrolls and other items. Similarly to Gen's Turf, if you know how to work with Blank Scrolls, this dungeon should be quite easy.
+
+That said, equipment is quite rare, and not having a shield for early floors could cause an early collapse due to a lack of defense. Blade Bees appear on 3F, which will likely end you if you don't have a shield or their License due to the fact that the first 5 floors are all water floors, so they always know where you are on the floor and will try their absolute best to sting you.
+
+Pit Mamels appear as well on early floors, and can be leveled up if you so desire if you find an item that can do so, such as a Fear Talisman.
 
 # Monsters
 
@@ -632,7 +679,7 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
   </tr>
   <tr>
     <td class="leftText highlightGray">Strength Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -712,7 +759,7 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
   </tr>
   <tr>
     <td class="leftText highlightGray">Cleansing Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -792,7 +839,7 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
   </tr>
   <tr>
     <td class="leftText highlightGray">Staunch Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -838,7 +885,7 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Blink Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1262,7 +1309,7 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
   </tr>
   <tr>
     <td class="leftText highlightGray">Fear Talisman</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1470,7 +1517,7 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Fixer Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1530,7 +1577,7 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Nixer Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1942,7 +1989,7 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
   </tr>
   <tr>
     <td class="leftText highlightGray">Preservation Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2128,7 +2175,7 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Heal Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2196,7 +2243,7 @@ metaDescription: "Page of Youth guide for Shiren the Wanderer: The Tower of Fort
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Hard Peach</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
