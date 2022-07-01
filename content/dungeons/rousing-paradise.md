@@ -7,7 +7,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
   <img src="../images/overworld/rousing_paradise.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where monsters spawn incredibly quickly, and the Wind of Kron blows much earlier. Floors also have monsters that are much stronger than the other monsters on the floor, such as Cololums on the first 2 floors.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -19,13 +19,60 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
 
 # Overview
 
-[Overview Tables]
+<table class="dungeonTable">
+  <tr>
+    <th>Floors</th>
+    <td>50F (First) / 99F</td>
+    <th>Day / Night</th>
+    <td>Day</td>
+  </tr>
+  <tr>
+    <th>Bring Items</th>
+    <td>No</td>
+    <th>Allies</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Unidentified</th>
+    <td>Grass, Scrolls, Staves, Bracelets, Pots</td>
+    <th>New Items</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Shops</th>
+    <td>Regular</td>
+    <th>Monster Houses</th>
+    <td>?</td>
+  </tr>
+  <tr>
+    <th>Initial Enemies</th>
+    <td>?</td>
+    <th>Spawn Rate</th>
+    <td>?</td>
+  </tr>
+  <tr>
+    <th>Ominous aura</th>
+    <td>?</td>
+    <th>Wind of Kron</th>
+    <td>1st: 366<br/>4th: 666</td>
+  </tr>
+  <tr>
+    <th>Clear Icon</th>
+    <td></td>
+    <th>Reward</th>
+    <td>Scout Bracelet</td>
+  </tr>
+<table>
 
 # Strategy
 
 [Quick Links]
 
-[Content]
+Because of the aforementioned monsters that are much stronger than the others and the quick spawn rate, it's not uncommon to suffer from a collapse on the very first floor, either by getting sandwiched by multiple monsters in a hallway, or you spawn right next to a Cololum that's awake while you have nothing to combat it.
+
+Shops are rare to find, and you can't stick on a floor for very long due to the Wind blowing almost three times as fast as normal. Couple that with the fact that everything aside from Talismans are unidentified, and you've got a very rough dungeon on your hands.
+
+1F and 2F have the same monsters, Mamels, Pit Mamels, Colums, Seedies, and Cololums. Colums and Mamels shouldn't give you any problems, while Pit Mamels and Seedies are fairly strong while you're Level 1 without any equipment, while Cololum is very likely to defeat Shiren in just one hit. Try to fight in a room so that you don't get caught off-guard by more monsters that may interfere with you.
 
 # Monsters
 
@@ -108,7 +155,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
   </tr>
   <tr>
     <td class="leftText highlightGray">Katana</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -140,7 +187,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Baffle Axe</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -405,7 +452,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
   </tr>
   <tr>
     <td class="leftText highlightGray">Iron Targe</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -417,7 +464,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Steady Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -457,7 +504,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Swap Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -577,7 +624,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Onigiri Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -888,7 +935,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
   </tr>
   <tr>
     <td class="leftText highlightGray">Wood Arrow</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1055,7 +1102,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
   </tr>
   <tr>
     <td class="leftText highlightGray">Pinning Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1115,7 +1162,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
   </tr>
   <tr>
     <td class="leftText highlightGray">Swift Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1135,7 +1182,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
   </tr>
   <tr>
     <td class="leftText highlightGray">Transient Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1234,7 +1281,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
     <td></td>
     <td></td>
     <td class="leftText highlightGray">Furious Talisman</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1942,7 +1989,7 @@ metaDescription: "Rousing Paradise guide for Shiren the Wanderer: The Tower of F
   </tr>
   <tr>
     <td class="leftText highlightGray">Preservation Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
