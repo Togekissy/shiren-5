@@ -7,7 +7,7 @@ metaDescription: "Garden of Destiny guide for Shiren the Wanderer: The Tower of 
   <img src="../images/overworld/garden_of_destiny.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where you earn extra experience points for defeating an enemy in one hit. Further hits will decrease the experience an enemy gives. Only direct attacks from Shiren will affect this; attacks from his allies, indirect attacks, or ranged attacks of his own do not affect the experience given. Defeating an enemy in one strike increases EXP by 150% (2.5 times), in two it reduces it by 33%, and in three or more direct attacks it will reduce experience given by 66%. <b> Direct attacks that miss still affect the experience given when defeating an enemy. </b>
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -79,7 +79,17 @@ metaDescription: "Garden of Destiny guide for Shiren the Wanderer: The Tower of 
 
 [Quick Links]
 
-[Content]
+This is one of very few dungeons where allies get a chance to shine, as they can be found as you explore the dungeon, this also includes Jirokichi, who normally can't be recruited after finishing the main story. If he dies, he still will leave a gravestone and can be resurrected by throwing a healing Grass or Heal Pot at him, but leaving the floor while he's in this state will not send you back to Nekomaneki Village.
+
+That said, beware of eating unidentified Grass items, as it could be a Rage Grass, causing you to uncontrollably attack any allies that you're near, likely causing them to collapse unless you're still low leveled. Even worse if you're in Super status, as if you're really unlucky you could end up inflicting Berserk on them, causing the two of you to duel to the death. (Or until the status wears off.)
+
+Koharu is a great ally if she's been maxed out, as transforming her into a maxed out Shield can easily insure your 50F clear, as enemies simply won't have the firepower to get through it. Later on though, enemies definitely will, so be advised.
+
+This dungeon is also unique in the fact that it's one of, if not the only one to have naturally leveled equipment, so you may find a Big Fang, Good Beast Shield, Lockbox Shield, etc as the floors go on.
+
+The first 50 floors have some similar spawns to the main story path (Destiny Trail, Tower of the Past, Present, and Future, Tower of Fortune, and the Tower of Miracles), except that the monster table is a <b> LOT </b> less forgiving, with Chows, Snackys, and Munchys spawning across a large range of floors, leveling or even limit breaking monsters. In particular, 32F has Spicy Nuts and Punishers, which is a considerable upgrade when you consider 31F's highest attack power (excluding the Snooztapirs) was 39 from the Ironheads. And 33F pushes this even further by immediately replacing the Punishers with Debasers, who have 55 AP, and can crit to also deal double damage.
+
+Ominous Auras happen quite quickly along a large range of floors, Limit Broken monsters appear on the last 10 floors, and the Maneater family shows up as a regular enemy for a couple of floors, meaning like a lot of dungeons, the last few floors are just a mad dash to the end of the dungeon. The FO-Uβ family appears in a decent range of floors, offering valuable grasses if you manage to defeat them. Their attack power is quite high for when they first show up, meaning Sealing them can be quite dangerous, but usually worthwhile if you defeat them.
 
 # Monsters
 
