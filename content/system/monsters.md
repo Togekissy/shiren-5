@@ -252,7 +252,7 @@ Element Order
     <td>2</td>
     <td>4%</td>
     <td>-</td>
-    <td>Slightly stronger Mamel.</td>
+    <td>Slightly stronger Mamel.<br/>Leveling it up early on can give a huge early-game advantage.</td>
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
@@ -7424,7 +7424,7 @@ Element Order
     <td>31%</td>
     <td>-</td>
     <td rowspan="4">Regular speed, but changes<br/>to double speed (1 attack)<br/>when it sees Shiren.<br/>Can roar if in same room.<br/>Roars can inflict <span class="green_text">Paralyzed</span>.<br/>Ignores <a href="/shiren-5/items/scrolls#sanctuary-scroll">Sanctuary Scrolls</a>,<br/>and only takes 10 damage<br/>from thrown Gitan.<br/>High item drop rate.<br/>(Shop table item)</td>
-    <td rowspan="4">Attack, defense, and<br/>exp increase based on<br/>current floor depth.</td>
+    <td rowspan="4">Attack, defense, and<br/>exp increase based on<br/>current floor depth. Generally only appears after an Ominous Aura happens on a floor, which is basically your cue to get off that floor now, unless you can take them. Very high skill points, which can be utilized to quickly level up equipment.</td>
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
@@ -7483,7 +7483,7 @@ Element Order
     <td>31%</td>
     <td>-</td>
     <td rowspan="4">Same as daytime abilities,<br/>but only takes 1 damage<br/>from thrown Gitan.</td>
-    <td rowspan="3">Attack, defense, and<br/>exp increase based on<br/>current floor depth.<br/>The item it drops is<br/>always blessed, but it<br/>doesn't offer much exp.<br/>Multiple abilities might<br/>be needed to defeat it<br/>due to its high HP, so<br/>you could let them slay<br/>each other instead.</td>
+    <td rowspan="4">Attack, defense, and<br/>exp increase based on<br/>current floor depth.<br/>The item it drops is<br/>always blessed, but it<br/>doesn't offer much exp.<br/>Multiple abilities might<br/>be needed to defeat it<br/>due to its high HP, so<br/>you could let them slay<br/>each other instead. Doesn't actually appear during an Ominous Aura during nighttime.</td>
   </tr>
   <tr>
     <td class="highlightNight">2</td>
@@ -7517,7 +7517,6 @@ Element Order
     <td>999</td>
     <td>31%</td>
     <td>-</td>
-    <td>Much higher stats than<br/>Dark Mounteater, so be<br/>careful.</td>
   </tr>
 </table>
 
@@ -7733,7 +7732,7 @@ Element Order
     <td>0</td>
     <td>-</td>
     <td>-</td>
-    <td>Immune to select statuses.<br/>Cures ailments after 1 turn.<br/>Converts explosions to 50 damage.<br/>(Example: <a href="/shiren-5/items/pots#4-2-8-pot">4-2-8 Pot</a>)<br/>Summons monsters.<br/>Moves away to keep a set distance.<br/>Uses a piercing attack that deals 40<br/>damage and makes you trip if lined up.<br/>Uses an attack that deals knockback<br/>when you're adjacent.<br/>Nullifies <a href="/shiren-5/items/scrolls#sanctuary-scroll">Sanctuary Scroll</a>.<br/>Only takes 2 damage from Gitan.</td>
+    <td>Immune to select statuses.<br/>Cures ailments after 1 turn.<br/>Converts explosions to 50 damage.<br/>(Example: <a href="/shiren-5/items/pots#4-2-8-pot">4-2-8 Pot</a>)<br/>Summons Dragons and Debasers.<br/>Moves away to keep a set distance.<br/>Uses a piercing attack that deals 40<br/>damage and makes you trip if lined up.<br/>Uses an attack that deals knockback<br/>when you're adjacent.<br/>Nullifies <a href="/shiren-5/items/scrolls#sanctuary-scroll">Sanctuary Scroll</a>.<br/>Only takes 2 damage from Gitan.</td>
     <td>Boss of <a href="/shiren-5/dungeons/old-road">Old Road</a>.</td>
   </tr>
 </table>
@@ -7811,6 +7810,8 @@ Element Order
 </table>
 
 ## Limit Break
+
+Monsters that gain a level while already being at their highest will cause them to Limit Break instead of becoming a different, stronger monster. Their HP is refilled, and they gain extra Attack, Defense, and an increase in EXP when defeated. Night Monsters will always do this when they defeat anything or are leveled in any way. <a href="#boy-cart">Pierce Carts</a> will level up into a <a href="#pop-tank">Pop Tank</a> if the family is not extinct.
 
 ### Stats
 
