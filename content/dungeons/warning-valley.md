@@ -7,7 +7,7 @@ metaDescription: "Warning Valley guide for Shiren the Wanderer: The Tower of For
   <img src="../images/overworld/warning_valley.jpg"/>
 </div>
 
-[Introduction]
+Dungeon where powerful monsters appear from the first floor and the Wind of Kron and Ominous Auras happen extremely quickly. Similarly to Lost Well, you're excepted to bring powerful items and make a mad dash for the stairs, lest you get blown away by the wind. Floor items generally aren't very useful, so you're excepted to use everything in your arsenal to your fullest potential to make it to the end.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -19,13 +19,58 @@ metaDescription: "Warning Valley guide for Shiren the Wanderer: The Tower of For
 
 # Overview
 
-[Overview Tables]
+<table class="dungeonTable">
+  <tr>
+    <th>Floors</th>
+    <td>50F (first) / 99F</td>
+    <th>Day / Night</th>
+    <td>Day</td>
+  </tr>
+  <tr>
+    <th>Bring Items</th>
+    <td>Yes</td>
+    <th>Allies</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Unidentified</th>
+    <td>Bracelets</td>
+    <th>New Items</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Shops</th>
+    <td>None</td>
+    <th>Monster Houses</th>
+    <td>None?</td>
+  </tr>
+  <tr>
+    <th>Initial Enemies</th>
+    <td>8~12</td>
+    <th>Spawn Rate</th>
+    <td>25 turns</td>
+  </tr>
+  <tr>
+    <th>Ominous aura</th>
+    <td>Yes (50 turns)</td>
+    <th>Wind of Kron</th>
+    <td>1st: 150<br/>4th: 200</td>
+  </tr>
+  <tr>
+    <th>Clear Icon</th>
+    <td>None</td>
+    <th>Reward</th>
+    <td>Time Stop Bracelet</td>
+  </tr>
+</table>
 
 # Strategy
 
 [Quick Links]
 
-[Content]
+Run. Just run. Locate and get to the stairs as quickly as possible, as there generally isn't enough time to explore a floor while fighting enemies. Having both a Wall Clip and Scout Bracelet equipped makes this much easier, but you still need to move quickly, as you don't have time to mess around. Mounteaters start appearing from Ominous Auras starting from 5F, and NEVER go away, so be prepared to fight Maneater family monsters. Isleaters will begin showing up from 26F onward, and will similarly never leave.
+
+As for the other monsters, watch out for ones with dangerous special attacks such as Knave Kings, Arch and Abyss Dragons, Ornery and Cranky Tanks, etc. I can't really think of anything else to say but to just book it, since fighting is pretty much pointless. 
 
 # Monsters
 
@@ -36,7 +81,7 @@ metaDescription: "Warning Valley guide for Shiren the Wanderer: The Tower of For
 ※ Item Table is incomplete. If you find a drop that isn't listed, please add it to the table.
 
 - F = Floor, Monster (day)
-- S = Shop, Maneater, Shiny Object (yellow)
+- S = Maneater, Shiny Object (yellow)
 - P = Presto Pot
 - Z = Zalokleft
 - E = Elite Shop, Shiny Object (blue)
